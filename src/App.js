@@ -16,10 +16,12 @@ function App() {
           <div className='row'>
             <div className='col-md-2'></div>
             <div class="col-md-8 ">
-                <div className='mt-5 display-1 text-center'>
+                <div className='my-4 display-1 text-center'>
                   {messageText}
+                  
                 </div>
-                <div className='mt-5 display-5 text-center pb-5'>
+                <hr/>
+                <div className='mt-3 display-5 text-center pb-5'>
                   {subtext}
 
               </div>
