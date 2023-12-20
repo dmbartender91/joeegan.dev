@@ -4,9 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   const [messageText, setMessageText] = useState("");
-  const [subtext, setSubtext] = useState("coming soon");
+  const [subtext, setSubtext] = useState("");
   useEffect(()=>{
     setMessageText("joeegan.dev");
+    setSubtext("coming soon");
   },[]);
   
   return (
