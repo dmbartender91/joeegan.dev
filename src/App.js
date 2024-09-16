@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import { HashRouter, Route } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from './components/Home/Home';
 
 function App() {
