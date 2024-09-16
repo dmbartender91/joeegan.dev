@@ -2,7 +2,7 @@
 import './App.css';
 
 import { HashRouter, Route, Routes } from 'react-router-dom';
-import Home from './components/Home/Home';
+import Home from './comps/Home/Home';
 
 function App() {
   
