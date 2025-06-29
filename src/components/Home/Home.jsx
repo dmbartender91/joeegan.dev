@@ -15,7 +15,7 @@ const Home = () => {
                 </div>
                 <hr/>
                 <div className='mt-3 display-5 text-center pb-5'>
-                  Coming Soon
+                  Coming Soon - Now-ish!
 
               </div>
             </div>
